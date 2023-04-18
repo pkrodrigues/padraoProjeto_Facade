@@ -12,3 +12,4 @@ O Facade é um padrão de projeto estrutural que fornece uma interface simplific
 Como exemplo para este padrão abordei o tema de hotelaria onde o hospede tende a passar por várias etapas de checagem para que possa fazer checkout do quarto
 #### 2.3.3 Diagrama de Classe do Exemplo
 
+![img.png](img.png)
